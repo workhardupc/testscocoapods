@@ -1,0 +1,22 @@
+{
+  "name": "DataLayer",
+  "version": "0.1.0",
+  "summary": "A short description of DataLayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/workhardupc/DataLayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "workhardupc": "zhangzhongjie@le.com"
+  },
+  "source": {
+    "git": "https://github.com/workhardupc/DataLayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DataLayer/Classes/**/*"
+}
