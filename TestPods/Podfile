@@ -9,6 +9,6 @@ target 'TestPods' do
 
   pod 'AFNetworking'
   pod 'SDWebImage'
-  pod 'DataLayer’, :path => ‘./DataLayer/'
+  #pod 'DataLayer’, :path => ‘./DataLayer/'
 
 end

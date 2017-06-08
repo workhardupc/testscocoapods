@@ -9,11 +9,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>DataLayer.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-TestPods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -27,22 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>7658F691C3C013AF55C437DA71316FC2</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>7D7E546D4A302E6AD0F58C2847D81053</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>9E033EDB5EC0819481B0546434FA577B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AE7C5B77C117110B1B536A151D7CE27F</key>
+		<key>9FA958260E96A246BA1C4F81A9787CA8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E745C5EB3B47593A160546D737B802A8</key>
 		<dict>
 			<key>primary</key>
 			<true/>

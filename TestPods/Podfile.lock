@@ -14,25 +14,18 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - DataLayer (0.1.0)
   - SDWebImage (4.0.0):
     - SDWebImage/Core (= 4.0.0)
   - SDWebImage/Core (4.0.0)
 
 DEPENDENCIES:
   - AFNetworking
-  - DataLayer (from `./DataLayer/`)
   - SDWebImage
-
-EXTERNAL SOURCES:
-  DataLayer:
-    :path: "./DataLayer/"
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  DataLayer: 8a8e847de469b13887e27fbac6d5d58ebc3f5d0f
   SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
 
-PODFILE CHECKSUM: 4bdac97988642b4f94c8446161130191809ec715
+PODFILE CHECKSUM: d5188dd076a11469ea2d48afd6a3b0fb01c741bb
 
 COCOAPODS: 1.2.1
