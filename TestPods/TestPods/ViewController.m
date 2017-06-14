@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 #import <SDWebImage/UIImageView+WebCache.h>
+#import <testcocoapods3/TestClass.h>
+
 //#import <DataLayer/DataLayer.h>
 
 
@@ -31,6 +33,9 @@
     
 //    DataLayer *layer = [[DataLayer alloc] init];
 //    layer.data = @"Hello";
+    
+    TestClass *test = [[TestClass alloc] init];
+    [test testLog];
 }
 
 

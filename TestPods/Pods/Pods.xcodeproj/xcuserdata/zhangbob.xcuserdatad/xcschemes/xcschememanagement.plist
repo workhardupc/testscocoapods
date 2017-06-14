@@ -19,20 +19,30 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>testcocoapods3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>11BAD3954430228B5144CD94D7F018A9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6D824771D880192034A40F97676CD0F9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7718738AA5AAEEB1D950468C1093C777</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9E033EDB5EC0819481B0546434FA577B</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9FA958260E96A246BA1C4F81A9787CA8</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E745C5EB3B47593A160546D737B802A8</key>
 		<dict>
 			<key>primary</key>
 			<true/>

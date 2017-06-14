@@ -17,15 +17,18 @@ PODS:
   - SDWebImage (4.0.0):
     - SDWebImage/Core (= 4.0.0)
   - SDWebImage/Core (4.0.0)
+  - testcocoapods3 (0.0.1)
 
 DEPENDENCIES:
   - AFNetworking
   - SDWebImage
+  - testcocoapods3
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  testcocoapods3: 7f4f6903ae4e7b9bcaf7c1687fcc0e251dd24adc
 
-PODFILE CHECKSUM: d5188dd076a11469ea2d48afd6a3b0fb01c741bb
+PODFILE CHECKSUM: ff8bf7c6b9dac079d94eb2e89af21cbadd23128a
 
 COCOAPODS: 1.2.1
