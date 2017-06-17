@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>NK22HY3LBA.com.letv.iphone.client.TestPods</string>
+	<string>NK22HY3LBA.com.letv.iphone.client</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>NK22HY3LBA.com.letv.iphone.client.TestPods</string>
+		<string>NK22HY3LBA.com.letv.iphone.client</string>
 	</array>
 </dict>
 </plist>

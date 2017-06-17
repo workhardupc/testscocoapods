@@ -1,2 +1,2 @@
 dependencies: \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/Target\ Support\ Files/Pods-TestPods/Pods-TestPods-dummy.m
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/Target\ Support\ Files/Pods-TestPods/Pods-TestPods-dummy.m

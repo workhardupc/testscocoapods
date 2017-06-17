@@ -1,3 +1,3 @@
 dependencies: \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/TestPods/ViewController.m \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/TestPods/ViewController.h
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/TestPods/ViewController.m \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/TestPods/ViewController.h

@@ -1,13 +1,13 @@
 dependencies: \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/Target\ Support\ Files/SDWebImage/SDWebImage-prefix.pch \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageManager.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDImageCache.h \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/NSImage+WebCache.h
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/Target\ Support\ Files/SDWebImage/SDWebImage-prefix.pch \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageManager.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDImageCache.h \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/NSImage+WebCache.h

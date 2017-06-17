@@ -1,4 +1,4 @@
 dependencies: \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/Target\ Support\ Files/SDWebImage/SDWebImage-prefix.pch \
-  /Letv/Work/WorkResource/CurrentWork/CocoaPods/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/Target\ Support\ Files/SDWebImage/SDWebImage-prefix.pch \
+  /letv/work/currentwork/continuousintegration/testscocoapods/TestPods/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
